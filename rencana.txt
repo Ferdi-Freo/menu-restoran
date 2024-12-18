@@ -2,3 +2,5 @@ Rencana untuk restoran saya :
   * Bikin Cabang ke-2
   * Menambahkan karyawan
   * Bikin Promosi di sosmed
+  * Nyewa Infulencer
+  * Diskon Besar Besaran
